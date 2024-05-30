@@ -41,7 +41,7 @@ Ce projet consiste à créer une plateforme d’apprentissage en ligne, permetta
 ## Installation
 1. Clonez le dépôt :
     ```bash
-    git clone https://github.com/votre-utilisateur/E-LearningPlatform2024.git
+    https://github.com/SaadBarhrouj/E-LearningPlatform2024.git
     ```
 2. Configurez la base de données MySQL (port 3308) :
     - Exécutez le script de création et de remplissage de la base de données disponible dans le dossier `db/`.
@@ -50,8 +50,8 @@ Ce projet consiste à créer une plateforme d’apprentissage en ligne, permetta
 
 4. Ouvrez le site dans un navigateur web pour commencer l'utilisation.
 ## Contributeurs
-AIT JAAKIKE MOHAMED AMINE
 BARHROUJ SAAD
+AIT JAAKIKE MOHAMED AMINE
 DEMBELE MOUSSA
 ANDRIAMIHANTA HERINIAVO FALY AIMERIC
 DAHMAN SALMA
