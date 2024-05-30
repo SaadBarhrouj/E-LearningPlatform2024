@@ -49,12 +49,9 @@ Ce projet consiste à créer une plateforme d’apprentissage en ligne, permetta
 3. Configurez le serveur web pour pointer vers le répertoire cloné.
 
 4. Ouvrez le site dans un navigateur web pour commencer l'utilisation.
-
-
-
 ## Contributeurs
-- Nom Prénom 1
-- Nom Prénom 2
-- Nom Prénom 3
-- Nom Prénom 4
-- Nom Prénom 5
+AIT JAAKIKE MOHAMED AMINE
+BARHROUJ SAAD
+DEMBELE MOUSSA
+ANDRIAMIHANTA HERINIAVO FALY AIMERIC
+DAHMAN SALMA
