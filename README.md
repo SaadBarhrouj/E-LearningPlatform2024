@@ -50,8 +50,8 @@ Ce projet consiste à créer une plateforme d’apprentissage en ligne, permetta
 
 4. Ouvrez le site dans un navigateur web pour commencer l'utilisation.
 ## Contributeurs
-BARHROUJ SAAD
-AIT JAAKIKE MOHAMED AMINE
-DEMBELE MOUSSA
-ANDRIAMIHANTA HERINIAVO FALY AIMERIC
-DAHMAN SALMA
+- **BARHROUJ SAAD**
+- **AIT JAAKIKE MOHAMED AMINE**
+- **DEMBELE MOUSSA**
+- **ANDRIAMIHANTA HERINIAVO FALY AIMERIC**
+-**DAHMAN SALMA**
