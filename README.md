@@ -54,4 +54,4 @@ Ce projet consiste à créer une plateforme d’apprentissage en ligne, permetta
 - **AIT JAAKIKE MOHAMED AMINE**
 - **DEMBELE MOUSSA**
 - **ANDRIAMIHANTA HERINIAVO FALY AIMERIC**
--**DAHMAN SALMA**
+- **DAHMAN SALMA**
