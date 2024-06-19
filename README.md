@@ -1,4 +1,4 @@
-# E-LearningPlatform2024
+ # E-LearningPlatform2024
 
 ## Description
 Ce projet consiste à créer une plateforme d’apprentissage en ligne, permettant aux professeurs de créer et gérer des cours, et aux étudiants de s'inscrire et d'accéder à ces cours. La plateforme est sécurisée et offre des fonctionnalités complètes de gestion des cours, des utilisateurs et des communications entre professeurs et étudiants.
